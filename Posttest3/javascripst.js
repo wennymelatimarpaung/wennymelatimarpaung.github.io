@@ -1,4 +1,4 @@
-alert("Selamat datang di Pizza Wenny");
+
 
 
 let searchbtn = document.querySelector('#search');

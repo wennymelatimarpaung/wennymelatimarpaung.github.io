@@ -14,6 +14,7 @@ swbtn.addEventListener("click", function(){
 });
 
 $('.toggle').click(function(){
+    alert("Selamat datang di Pizza Wenny");
     if(darkmode === 0){
         $('header, body').css('background-color', 'black');
         $('#about').css('background-color', 'black');
